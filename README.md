@@ -1,6 +1,6 @@
-# bootstrap-boilerplate
+# Collab-Project
 
-A boilerplate for Bootstrap Projects
+A boilerplate for Bootstrap used for Collab-project
 
 ## Running On
 
